@@ -1,10 +1,9 @@
-title: Lil'Log
+title: Mason's blog
 name: "Lilian's Tech Blog"
-author: Lilian Weng
-twitter_username: lilianweng
-baseurl: "/lil-log"
+author: Mason Ma
+baseurl: "/"
 description: Document my learning notes.
-profile_url: "http://lilianweng.github.io"
+profile_url: "http://johnmasoner.github.io"
 
 # Build settings
 markdown: kramdown
